@@ -2,7 +2,7 @@
 
 This is an simple image gallery application built using Node.js and Electron.
 
-![Home View](https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/3b57bc9e-f13e-4aa3-8aa9-28c8cce48fda)
+![Home View](https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/8254a911-6a57-4a3a-bbbd-6ff5ad62e820)
 
 ## Features
 - Browse and view images stored locally on your computer.
@@ -14,7 +14,7 @@ This is an simple image gallery application built using Node.js and Electron.
   
 ## Preview
 
-![Slider View](https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/472e0068-3cd6-439d-951c-53fd9018edbe)
+![Slider View](https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/2783731a-59d9-4626-b88a-740255275589)
 
 <table align="center">
 <tr align="center" valign="top" height="75">
@@ -24,20 +24,17 @@ This is an simple image gallery application built using Node.js and Electron.
 </tr>
 <tr>
   <td>
-    <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/b75330df-88f1-4fef-af3a-19e674836e3f" alt="Add New Image Action"/>
+    <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/1c1fea68-9ccf-4aca-ba9e-3bbb0aa28a2a" alt="Add New Image Action"/>
   </td>
   <td>
-    <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/8deaa6ab-4e6b-4c0f-b030-fffb0d804045" alt="Edit Image Caption Action"/>
+    <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/44f752a7-070a-46ef-a341-efc15b1fbb89" alt="Edit Image Caption Action"/>
   </td>
   <td>
-    <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/d7f12a43-efe6-4e0c-ba55-c0b4526a7b2a" alt="Delete Image Action"/>
+    <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/87f98341-afd7-456c-acff-47b17ae3425b" alt="Delete Image Action"/>
   </td>
 </tr> 
 <table>
 <div align="center">
-  <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/cc1dd4a0-0865-40f6-aaec-3a229e37fd0b" alt="Image Action Buttons"/>
+  <img src="https://github.com/Andresv309/image-gallery-electronjs/assets/116861909/6df3362a-fb9c-4583-8e45-48ab4c23add0" alt="Image Action Buttons"/>
 </div>
-
-
-
 
